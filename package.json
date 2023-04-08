@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa Kutay Kurt",
+  "license": "ISC",
+  "dependencies": {
+    "@busshi/linkedin-private-api": "^1.0.0"
+  }
+}
