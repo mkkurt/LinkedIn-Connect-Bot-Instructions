@@ -3,7 +3,7 @@ Instructions to create a LinkedIn bot that automatically accepts connection requ
 
 
 ## Steps
-- Download and Install [NodeJS](https://nodejs.org/en/download) if you didn't already.
+- Download and Install [NodeJS](https://nodejs.org/en/download) if you haven't already.
 - Test it by running 'node' command on the terminal
 - Clone this repository or create a .js file and copy-paste the contents of the index.js file on this repository.
 - Edit the index.js file by changing the username and password variables. Please use your email for the username. For example: `const username = "example@gmail.com"`.
