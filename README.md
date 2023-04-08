@@ -10,7 +10,7 @@ Instructions to create a LinkedIn bot that automatically accepts connection requ
 - While on the directory that includes the index.js file, run the following commands by order:
 - `npm install @busshi/linkedin-private-api`
 - `node index.js`
-- Program should start running now. You can exit the program with CTRL-C or CMD
+- Program should start running now. You can exit the program with CTRL-C
 
 ## Adımlar
 - Henüz yapmadıysanız [NodeJS](https://nodejs.org/en/download) aracını indirin ve kurun.
@@ -20,4 +20,4 @@ Instructions to create a LinkedIn bot that automatically accepts connection requ
 - index.js dosyasının bulunduğu dizinde sırasıyla aşağıdaki komutları çalıştırın:
 - `npm install @busshi/linkedin-private-api`
 - `node index.js`
-- Program şimdi çalışmaya başlamış olmalı.
+- Program şimdi çalışmaya başlamış olmalı. CTRL-C ile programı durdurabilirsiniz.
